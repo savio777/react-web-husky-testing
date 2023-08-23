@@ -34,6 +34,7 @@
 ##### config test:
 
 - instalar `vitest`
+- adicionar script: `"test": "vitest --run"`
 - `vite.config.ts`
 
 ```ts
