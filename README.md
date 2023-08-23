@@ -2,6 +2,7 @@
 
 - [lint](https://medium.com/how-to-react/config-eslint-and-prettier-in-visual-studio-code-for-react-js-development-97bb2236b31a)
 - [husky](https://medium.com/how-to-react/how-to-use-husky-and-lint-staged-in-react-js-to-push-your-error-free-code-to-git-f9a382d4b624)
+- [testes com vitest](https://eternaldev.com/blog/testing-a-react-application-with-vitest)
 
 ### tips:
 
