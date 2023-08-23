@@ -12,3 +12,7 @@
 - adicionar script `"postinstall": "husky install"`
 - adicionar arquivo `.lintstagedrc`, inserir `{"**/*.{ts,tsx}": ["eslint --fix"]}`
 - rodar comando para adicionar o pré commit do husky com lint-staged `npx husky add .husky/pre-commit "npx lint-staged"`
+
+
+#### todo:
+- rodar teste no pre-push
