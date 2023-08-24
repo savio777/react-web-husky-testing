@@ -32,9 +32,9 @@
 
 - `.lintstagedrc`
 
-````json
-  {"**/*.{ts,tsx}": ["eslint --fix"]}```
-````
+```json
+  {"**/*.{ts,tsx}": ["eslint --fix"]}
+```
 
 ##### config test:
 
